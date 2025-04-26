@@ -18,3 +18,4 @@ def read_items():
 def read_item(item_id: int):
     return {"item_id": item_id}
 
+print(1)
